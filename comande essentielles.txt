@@ -51,4 +51,7 @@ pour se plancer dans une branche
 pour creer et se plancer dans une branche
 --git checkout -b ma-branche
 changement dans une autre branche
-
+pour fusionner LES branche ou mettre a jour les modifications la branche B dans A
+1. se placer dans la branche principal
+--git branche nombranche
+ --git branch merge
