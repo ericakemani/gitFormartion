@@ -1,0 +1,40 @@
+afficher
+-- dir pour 
+pour ce deplacer
+--cd 
+pour creer et un fichier
+--mkdir  
+--touch nonfichier.extension
+chemin courant
+--pwd 
+lister le contenu
+-- ls -l -a
+afficher le contenu d'un fichier
+cat nonfichier.extension 
+
+***config de base qui permet de creer un compte github a partir de git
+--git config --global user.name "ericakemanipro"
+--git config --global user.email "ericakemanipro@gamail.com"
+pour activer un repository comme fichier git
+--git init 
+git cree un idex qui gere tous les fichier,
+c'est pourquoi lors de la creation d'un nouveau fichier 
+il faut l'ajouter a l'index
+--git add nomfichier.extension
+pour ajouter tous les fichiers
+--git add .(attention a ajouter trop de fichier a l'index)
+pour coler le texte dans git bash
+--bouton insert
+commande git pour le commit
+--git comit  -m "commentaire de commit"
+--git log (pour voir l'historique de commit
+--par ex. git commit debut introduction>memoire
+pour mettre a jour un fichier il faut l'ajouter a l'index et faire un commit
+--git commit -a -m "commentaire"
+pour se positionner sur un commit et revenir sur une branche
+-- git checkout SHADuCommit
+-- git checkout master(nom branche)
+annuler un commit avec un commit inverse pour modifier le message du commit
+--git revert SHADuCommit
+--git commit --amend -m "Votre nouveau message"
+
