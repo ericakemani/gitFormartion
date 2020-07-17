@@ -54,7 +54,7 @@ changement dans une autre branche
 pour fusionner LES branche ou mettre a jour les modifications la branche B dans A
 1. se placer dans la branche principal
 --git branche nombranche
- --git branch merge
+ --git  merge nombranche
 pour resoudre le conflit de branbre
 --git commit
 pour savoir a fait une modificatin sur un fichier 
