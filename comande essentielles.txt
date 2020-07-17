@@ -49,4 +49,6 @@ pour ajouter une nouvelle branche (nlle fonctionnalite ou phase experimantalle
 pour se plancer dans une branche 
 -- git checkout nombranche
 pour creer et se plancer dans une branche
-git checkout -b ma-branche
+--git checkout -b ma-branche
+changement dans une autre branche
+
