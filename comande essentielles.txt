@@ -37,4 +37,7 @@ pour se positionner sur un commit et revenir sur une branche
 annuler un commit avec un commit inverse pour modifier le message du commit
 --git revert SHADuCommit
 --git commit --amend -m "Votre nouveau message"
-
+pour clone un repo sur le local 
+--git clone "lien du repo"
+pour synchroniser avec le modification 
+git push origin master
