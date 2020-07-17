@@ -41,3 +41,12 @@ pour clone un repo sur le local
 --git clone "lien du repo"
 pour synchroniser avec le modification 
 git push origin master
+la branche master est la branche par defaut
+pour voir dans quelle branche on est 
+-- git branch 
+pour ajouter une nouvelle branche (nlle fonctionnalite ou phase experimantalle
+--git branch nombranche
+pour se plancer dans une branche 
+-- git checkout nombranche
+pour creer et se plancer dans une branche
+git checkout -b ma-branche
