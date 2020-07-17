@@ -56,4 +56,9 @@ pour fusionner LES branche ou mettre a jour les modifications la branche B dans 
 --git branche nombranche
  --git branch merge
 pour resoudre le conflit de branbre
---git commit 
+--git commit
+pour savoir a fait une modificatin sur un fichier 
+--git blame nomfichhier.extension
+pour voir la raison la modification 
+--git log avec le SSH ou git show debut de SSH
+ 
